@@ -23,7 +23,7 @@ In this lab, that hypothesis was simple: the input would be processed in a funct
 
 ## What x64dbg contributes
 
-Within this methodology, x64dbg contributes the dynamic part of the analysis. It allows the analyst to:
+x64dbg contributes the dynamic part of the analysis. It allows the analyst to:
 - stop execution at a specific function,
 - inspect real register values,
 - see the call context in the stack,
@@ -38,6 +38,3 @@ Before x64dbg, tools such as DIE, PE-bear, Strings or Ghidra can provide useful 
 - Strings for visible texts,
 - and Ghidra for a broader code view.
 
-## Final idea
-
-The methodology used here is simple, but effective for a practice binary. It combines a small amount of pre-analysis with focused debugging, which makes the lab easier to understand and easier to reproduce.
