@@ -16,6 +16,19 @@
 
 ---
 
+## Table of contents / Índice
+
+- [Overview / Resumen](#overview)
+- [Why this project? / ¿Por qué este proyecto?](#why-this-project)
+- [Language guide / Guía de idiomas](#language-guide)
+- [Repository structure / Estructura del repositorio](#repository-structure)
+- [Guía de archivos `.md`](#md-guide)
+- [Contact / Contacto](#contact)
+
+---
+
+<a id="overview"></a>
+
 ## Overview / Resumen
 
 ### EN
@@ -46,20 +59,7 @@ Está planteado para ser simple y reproducible.
 
 ---
 
-## Table of contents / Índice
-
-- [Why this project? / ¿Por qué este proyecto?](#why-this-project--por-qué-este-proyecto)
-- [Language guide / Guía de idiomas](#language-guide--guía-de-idiomas)
-- [Repository structure / Estructura del repositorio](#repository-structure--estructura-del-repositorio)
-- [What the sample does / Qué hace la muestra](#what-the-sample-does--qué-hace-la-muestra)
-- [Learning goals / Objetivos de aprendizaje](#learning-goals--objetivos-de-aprendizaje)
-- [How to use this repository / Cómo usar este repositorio](#how-to-use-this-repository--cómo-usar-este-repositorio)
-- [Suggested workflow in x64dbg / Flujo sugerido en x64dbg](#suggested-workflow-in-x64dbg--flujo-sugerido-en-x64dbg)
-- [Included documentation / Documentación incluida](#included-documentation--documentación-incluida)
-- [Requirements / Requisitos](#requirements--requisitos)
-- [Intended use / Uso previsto](#intended-use--uso-previsto)
-
----
+<a id="why-this-project"></a>
 
 ## Why this project? / ¿Por qué este proyecto?
 
@@ -84,6 +84,8 @@ Es útil para:
 - y documentar un flujo de análisis de forma ordenada.
 
 ---
+
+<a id="language-guide"></a>
 
 ## Language guide / Guía de idiomas
 
@@ -114,6 +116,8 @@ Eso significa que el repositorio combina:
 - y recursos técnicos con nombres neutrales.
 
 ---
+
+<a id="repository-structure"></a>
 
 ## Repository structure / Estructura del repositorio
 
@@ -146,7 +150,11 @@ lab-x64dbg-dynamic-analysis/
 │   └── tools_es.md
 └── README.md
 ```
+
 ---
+
+<a id="md-guide"></a>
+
 ## Guía de archivos `.md`
 
 ### EN
@@ -199,10 +207,10 @@ Este repositorio incluye varios archivos Markdown organizados por función e idi
   Guía paso a paso del laboratorio en español. Describe el flujo de análisis dinámico con x64dbg.
 
 - `docs/02-methodology_en.md`  
-  Metodología de la práctica en inglés. Explica el enfoque de análisis y el razonamiento seguido.
+  Metodología de la práctica en inglés. Explica el enfoque del análisis y el razonamiento seguido.
 
 - `docs/02-methodology_es.md`  
-  Metodología de la práctica en español. Explica el enfoque de análisis y el razonamiento seguido.
+  Metodología de la práctica en español. Explica el enfoque del análisis y el razonamiento seguido.
 
 - `docs/03-conclusions_en.md`  
   Conclusiones finales en inglés. Resume los aprendizajes y las ideas principales del ejercicio.
@@ -218,6 +226,8 @@ Este repositorio incluye varios archivos Markdown organizados por función e idi
   Lista de referencia de las herramientas utilizadas durante la práctica en español.
 
 ---
+
+<a id="contact"></a>
 
 ## Contact / Contacto
 
