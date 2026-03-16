@@ -22,7 +22,7 @@ El binario utilizado es `validation_lab.exe`, compilado a partir de `lab_validat
 
 ## Entorno y herramientas
 
-- Windows en una máquina virtual
+- Windows S.O.
 - x64dbg
 - Binario de práctica `validation_lab.exe`
 - Capturas almacenadas en la carpeta `images/`
@@ -32,8 +32,6 @@ El binario utilizado es `validation_lab.exe`, compilado a partir de `lab_validat
 ## Preanálisis antes de abrir x64dbg
 
 Antes de comenzar el análisis dinámico, conviene realizar un pequeño preanálisis del binario. Esto ayuda a llegar a la fase de depuración con una idea más clara de qué buscar.
-
-En este laboratorio, antes de abrir x64dbg, resulta útil:
 - verificar que el binario compila y se ejecuta correctamente,
 - identificar si se trata de un ejecutable de consola,
 - comprobar si el binario conserva símbolos,
