@@ -140,6 +140,9 @@ lab-x64dbg-dynamic-analysis/
 ├── lab/
 │   ├── lab_validation.c
 │   ├── build_with_msvc.bat
+│   └── HOW_TO_COMPILE.txt
+├── references/
+│   ├── tools_en.md
 ```
 ## Guía de archivos `.md`
 
@@ -210,8 +213,6 @@ Este repositorio incluye varios archivos Markdown organizados por función e idi
 
 - `references/tools_es.md`  
   Lista de referencia de las herramientas utilizadas durante la práctica en español.
-│   └── HOW_TO_COMPILE.txt
-├── references/
-│   ├── tools_en.md
+
 │   └── tools_es.md
 └── README.md
