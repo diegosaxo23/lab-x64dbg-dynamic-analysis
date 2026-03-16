@@ -1,0 +1,12 @@
+1) Copia estos archivos a una carpeta en Windows.
+2) Si tienes Visual Studio Build Tools, abre "x64 Native Tools Command Prompt for VS".
+3) Ejecuta: build_with_msvc.bat
+4) Se generara validation_lab.exe
+
+Entrada correcta del laboratorio: DEBUG-LAB
+
+Sugerencia para el informe:
+- Busca las strings "Access denied" y "Access granted"
+- Pon breakpoint en validate_code
+- Mira normalized y transformed en memoria
+- Captura el cmp/strcmp y el salto asociado
