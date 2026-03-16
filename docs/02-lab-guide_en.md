@@ -22,7 +22,7 @@ The binary used is `validation_lab.exe`, compiled from `lab_validation.c`.
 
 ## Environment and tools
 
-- Windows in a virtual machine
+- Windows S.O.
 - x64dbg
 - Practice binary `validation_lab.exe`
 - Screenshots stored in the `images/` folder
