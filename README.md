@@ -32,7 +32,7 @@
 ## Overview / Resumen
 
 ### EN
-This repository contains a **beginner-friendly dynamic analysis lab** focused on **Windows debugging with x64dbg**.  
+This repository contains a dynamic analysis lab focused on **Windows debugging with x64dbg**.  
 It uses a small training binary designed to make the internal validation flow easy to observe and document.
 
 The lab is meant to help you analyze:
@@ -45,7 +45,7 @@ The lab is meant to help you analyze:
 It is intentionally simple and reproducible.
 
 ### ES
-Este repositorio contiene un **laboratorio de análisis dinámico orientado a principiantes** y centrado en la **depuración en Windows con x64dbg**.  
+Este repositorio contiene un laboratorio de análisis dinámico y centrado en la **depuración en Windows con x64dbg**.  
 Utiliza un pequeño binario de entrenamiento pensado para que el flujo interno de validación sea fácil de observar y documentar.
 
 El laboratorio sirve para analizar:
