@@ -15,15 +15,10 @@ El flujo seguido es:
 8. Volver al llamador e identificar el bloque de decisión.
 9. Documentar el resultado con capturas y comentarios.
 
-## Por qué esta metodología es útil
-
-Este enfoque es útil porque evita comenzar la depuración sin contexto. Incluso un preanálisis pequeño proporciona una hipótesis inicial y facilita decidir dónde detener la ejecución.
-
-En este laboratorio, esa hipótesis era sencilla: la entrada sería procesada en una función llamada `validate_code`, y el valor devuelto se comprobaría después en un bloque de comparación.
 
 ## Qué aporta x64dbg
 
-Dentro de esta metodología, x64dbg aporta la parte dinámica del análisis. Permite al analista:
+x64dbg aporta la parte dinámica del análisis. Permite al analista:
 - detener la ejecución en una función concreta,
 - inspeccionar valores reales de los registros,
 - ver el contexto de llamada en la pila,
