@@ -140,6 +140,76 @@ lab-x64dbg-dynamic-analysis/
 ├── lab/
 │   ├── lab_validation.c
 │   ├── build_with_msvc.bat
+```
+## Guía de archivos `.md`
+
+### EN
+This repository includes several Markdown files organized by purpose and language.
+
+#### Root
+- `README.md`  
+  Main entry point of the repository. It explains the purpose of the lab, the structure of the project, the language organization, and how to use the material.
+
+#### Documentation (`docs/`)
+- `docs/01-lab-guide_en.md`  
+  Step-by-step lab guide in English. It walks through the dynamic analysis workflow with x64dbg.
+
+- `docs/01-lab-guide_es.md`  
+  Guía paso a paso del laboratorio en español. Explica el flujo de análisis dinámico con x64dbg.
+
+- `docs/02-methodology_en.md`  
+  Methodology used in the exercise in English. Describes the analysis approach and reasoning behind the workflow.
+
+- `docs/02-methodology_es.md`  
+  Metodología utilizada en la práctica en español. Describe el enfoque de análisis y la lógica seguida durante el laboratorio.
+
+- `docs/03-conclusions_en.md`  
+  Final conclusions in English. Summarizes what was learned and the main takeaways from the exercise.
+
+- `docs/03-conclusions_es.md`  
+  Conclusiones finales en español. Resume lo aprendido y las ideas principales extraídas del laboratorio.
+
+#### References (`references/`)
+- `references/tools_en.md`  
+  Reference list of the tools used during the lab in English.
+
+- `references/tools_es.md`  
+  Lista de referencia de las herramientas utilizadas durante la práctica en español.
+
+---
+
+### ES
+Este repositorio incluye varios archivos Markdown organizados por función e idioma.
+
+#### Raíz
+- `README.md`  
+  Punto de entrada principal del repositorio. Explica el propósito del laboratorio, la estructura del proyecto, la organización por idiomas y cómo utilizar el material.
+
+#### Documentación (`docs/`)
+- `docs/01-lab-guide_en.md`  
+  Guía paso a paso del laboratorio en inglés. Describe el flujo de análisis dinámico con x64dbg.
+
+- `docs/01-lab-guide_es.md`  
+  Guía paso a paso del laboratorio en español. Describe el flujo de análisis dinámico con x64dbg.
+
+- `docs/02-methodology_en.md`  
+  Metodología de la práctica en inglés. Explica el enfoque de análisis y el razonamiento seguido.
+
+- `docs/02-methodology_es.md`  
+  Metodología de la práctica en español. Explica el enfoque de análisis y el razonamiento seguido.
+
+- `docs/03-conclusions_en.md`  
+  Conclusiones finales en inglés. Resume los aprendizajes y las ideas principales del ejercicio.
+
+- `docs/03-conclusions_es.md`  
+  Conclusiones finales en español. Resume los aprendizajes y las ideas principales del ejercicio.
+
+#### Referencias (`references/`)
+- `references/tools_en.md`  
+  Lista de referencia de las herramientas utilizadas durante la práctica en inglés.
+
+- `references/tools_es.md`  
+  Lista de referencia de las herramientas utilizadas durante la práctica en español.
 │   └── HOW_TO_COMPILE.txt
 ├── references/
 │   ├── tools_en.md
