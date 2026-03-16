@@ -146,6 +146,7 @@ lab-x64dbg-dynamic-analysis/
 │   └── tools_es.md
 └── README.md
 ```
+---
 ## Guía de archivos `.md`
 
 ### EN
@@ -216,4 +217,11 @@ Este repositorio incluye varios archivos Markdown organizados por función e idi
 - `references/tools_es.md`  
   Lista de referencia de las herramientas utilizadas durante la práctica en español.
 
+---
 
+## Contact / Contacto
+
+**Diego Rodríguez Fuertes**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Rodr%C3%ADguez%20Fuertes-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodriguez-fuertes/)
+[![Email](https://img.shields.io/badge/Email-diegosaxo23%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:diegosaxo23@gmail.com)
