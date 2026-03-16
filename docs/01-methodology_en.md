@@ -15,11 +15,6 @@ The workflow followed is:
 8. Return to the caller and identify the decision block.
 9. Document the result with screenshots and comments.
 
-## Why this methodology is useful
-
-This approach is useful because it avoids starting the debugger without context. Even a small pre-analysis provides an initial hypothesis and makes it easier to choose where to stop execution.
-
-In this lab, that hypothesis was simple: the input would be processed in a function called `validate_code`, and the returned value would later be checked in a comparison block.
 
 ## What x64dbg contributes
 
